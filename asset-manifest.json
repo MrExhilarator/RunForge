@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/RunForge/static/js/main.f0bee8ad.js",
+    "main.js": "/RunForge/static/js/main.3132240a.js",
     "index.html": "/RunForge/index.html",
-    "main.f0bee8ad.js.map": "/RunForge/static/js/main.f0bee8ad.js.map"
+    "main.3132240a.js.map": "/RunForge/static/js/main.3132240a.js.map"
   },
   "entrypoints": [
-    "static/js/main.f0bee8ad.js"
+    "static/js/main.3132240a.js"
   ]
 }
